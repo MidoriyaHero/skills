@@ -1,0 +1,25 @@
+{
+  "name": "short-motion-video",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "audio": "node src/audio/gen.mjs",
+    "studio": "remotion studio src/index.ts",
+    "sheet": "bash scripts/contact_sheet.sh Portrait",
+    "render": "bash scripts/render_all.sh"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.532",
+    "@remotion/google-fonts": "^4.0.532",
+    "@remotion/transitions": "^4.0.532",
+    "playwright": "^1.63.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "remotion": "^4.0.532"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.6.0"
+  }
+}
