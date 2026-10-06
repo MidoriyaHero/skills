@@ -19,6 +19,7 @@ Templates with a `package.json` (e.g. `gen-motion-video/template`) need `npm ins
 | `short-motion-video` | 20 s product showreel (kinetic hook, UI build, cursor-driven features, proof, outro) |
 | `remotion-motion-graphics` | General Remotion motion-graphics creation and editing |
 | `sora` | Generate, edit, extend and manage Sora videos |
+| `content-video-pipeline` | Topic video router: real photos, beat script, Remotion typography (no AI images) |
 | `audio-mixer-assistant` | Mix voice, music, and effects to platform loudness targets |
 | `script-to-teleprompter` | Turn scripts into teleprompter copy with delivery cues and timing |
 | `subtitle-generator-pro` | Timed captions in creator styles (SRT, ASS, VTT) |
